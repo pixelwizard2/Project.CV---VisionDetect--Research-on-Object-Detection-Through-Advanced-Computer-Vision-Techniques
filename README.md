@@ -30,7 +30,7 @@ This project explores and compares two methods, Code A and Code B, for detecting
 
 - **Demo Video capture of Code A (Prototype)**
 
-![1](https://github.com/pixelwizard2/Project.CV--VisionDetect--Research-on-Object-Detection-Through-Advanced-Computer-Vision-Techniques/assets/138272416/34a255c9-caaa-4695-9cd2-f1a05fcf4cb9)
+[![1](https://github.com/pixelwizard2/Project.CV--VisionDetect--Research-on-Object-Detection-Through-Advanced-Computer-Vision-Techniques/assets/138272416/34a255c9-caaa-4695-9cd2-f1a05fcf4cb9)](https://blog.naver.com/pixelwizard/223302257747)
 
 <br>
 
@@ -48,7 +48,8 @@ This project explores and compares two methods, Code A and Code B, for detecting
 
 - **Demo Video capture of Code B (Prototype)**
 
-![2](https://github.com/pixelwizard2/Project.CV--VisionDetect--Research-on-Object-Detection-Through-Advanced-Computer-Vision-Techniques/assets/138272416/1c5a80d9-b58a-46ad-9571-e4f2ebd01754)
+[![2](https://github.com/pixelwizard2/Project.CV--VisionDetect--Research-on-Object-Detection-Through-Advanced-Computer-Vision-Techniques/assets/138272416/1c5a80d9-b58a-46ad-9571-e4f2ebd01754)](https://blog.naver.com/pixelwizard/223302257747)
+
 
 <br> <br>
 
