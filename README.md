@@ -1,6 +1,10 @@
 # Project.CV--VisionDetect--Research-on-Object-Detection-Through-Advanced-Computer-Vision-Techniques
 고급 컴퓨터 비전 기법을 통한 객체 감지 연구 (여섯 개의 알고리즘 적용)
-
+<p align="right">
+  <a href="https://blog.naver.com/pixelwizard/223302257747">
+    <img src="https://img.shields.io/badge/한국어%20번역본-03C75A?style=flat-square&logo=Naver&logoColor=white" alt="네이버 블로그">
+  </a> </p>  
+  
 ![포폴_배경_1](https://github.com/pixelwizard2/Project.CV--VisionDetect--Research-on-Object-Detection-Through-Advanced-Computer-Vision-Techniques/assets/138272416/e29ffc92-c8e8-48d0-b6c8-0489117083a7)
 
 
