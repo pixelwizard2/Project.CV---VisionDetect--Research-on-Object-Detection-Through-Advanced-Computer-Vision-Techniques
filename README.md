@@ -10,13 +10,13 @@
 
 
 
-## 1. Project Introduction / Overview
+## 1. Project Introduction / Overview (프로젝트 소개 / 개요)
 
 This project explores and compares two methods, Code A and Code B, for detecting moving objects in real-time images (videos) through a webcam using the OpenCV library in the field of computer vision. Code A investigates a comprehensive approach to capture all movements from the webcam, while Code B applies advanced techniques to track and detect the movement of specific objects under certain conditions (based on area).
 
 
 
-## 2-1. Technical Analysis (Key Points A)
+## 2-1. Technical Analysis (Key Points A)   (기술적 분석 A)
 
 -**Key Aspect of Code A:** Detection of All Movements
 
@@ -34,7 +34,7 @@ This project explores and compares two methods, Code A and Code B, for detecting
 
 
 
-## 2-2. Technical Analysis (Key Points B)
+## 2-2. Technical Analysis (Key Points B)   (기술적 분석 B)
 
 -**Key Aspect of Code B:** Conditional Object Detection
 
@@ -50,11 +50,9 @@ This project explores and compares two methods, Code A and Code B, for detecting
 
 ![2](https://github.com/pixelwizard2/Project.CV--VisionDetect--Research-on-Object-Detection-Through-Advanced-Computer-Vision-Techniques/assets/138272416/1c5a80d9-b58a-46ad-9571-e4f2ebd01754)
 
-![4](https://github.com/pixelwizard2/Project.CV--VisionDetect--Research-on-Object-Detection-Through-Advanced-Computer-Vision-Techniques/assets/138272416/381da6eb-0534-4487-b2a9-cc7c1064bb49)
 
 
-
-## 3. Code Review & Comparative Analysis
+## 3. Code Review & Comparative Analysis (코드 리뷰 & 실행화면 비교)
 
 -**Comparison of the Entire Code of Code A (Left) and Modifications in Code B (Right)**
 
@@ -62,8 +60,11 @@ This project explores and compares two methods, Code A and Code B, for detecting
 
 ![3](https://github.com/pixelwizard2/Project.CV--VisionDetect--Research-on-Object-Detection-Through-Advanced-Computer-Vision-Techniques/assets/138272416/5bb094fe-7c5b-43be-a6f8-c6d5fe63fec0)
 
+![4](https://github.com/pixelwizard2/Project.CV--VisionDetect--Research-on-Object-Detection-Through-Advanced-Computer-Vision-Techniques/assets/138272416/381da6eb-0534-4487-b2a9-cc7c1064bb49)
 
-## 4. Description of Used Technologies and Algorithms
+
+
+## 4. Description of Used Technologies and Algorithms (사용된 기술 및 알고리즘 설명)
 
 -**(1) Background Subtraction:** 
 - Description: This technique detects movement by calculating the pixel difference between two consecutively captured images. Moving objects exhibit distinct pixel changes compared to the background.
@@ -104,22 +105,22 @@ This project explores and compares two methods, Code A and Code B, for detecting
 These algorithms play an essential role in effectively detecting and tracking moving objects in images, with each technology greatly aiding in implementing stronger object detection capabilities in the field of computer vision.
 
 
-## 5. Significance and Practical Application of the Project
+## 5. Significance and Practical Application of the Project (프로젝트 연구의 의의 및 실용적 적용)
 
 This project contributes to the advancement of object detection algorithms, a core element of computer vision systems applicable in various aspects of modern society. Especially, it explores the practical applicability of real-time image processing and advanced object detection techniques, anticipating applications in real-time object detection and tracking in diverse environments, such as security systems, automated surveillance and monitoring, autonomous vehicles, and robotics. The integration of these technologies can enhance work efficiency and reduce human intervention, advancing system automation and optimization.
 
 
-## 6. Reflections / Insights
+## 6. Reflections / Insights (아쉬운 점 / 느낀 점)
 
 The project provided an in-depth exploration of basic principles of computer vision and various approaches to object detection. Code A highlighted the importance of a basic approach that captures all movements, while Code B showed the potential of advanced detection techniques through more precise condition setting. However, both approaches can be limited in specific situations, and additional optimization and customization are needed for practical application. The project inspired further exploration beyond OpenCV to implement features that, like in the latter part of the Code B demo video, do not detect minor movements but can track new or existing movements.
 
 
-## 7. Future Directions
+## 7. Future Directions (미래 방향)
 
 Future research will explore ways to enhance the accuracy and efficiency of object detection using artificial intelligence and machine learning. Particularly, combining deep learning-based algorithms and techniques to maintain high performance in more complex environments and improve object detection accuracy. Additionally, we plan to develop features that allow users to easily set object detection criteria tailored to various use cases.
 
 
-## 8. Conclusion
+## 8. Conclusion (결론)
 
 From an AI perspective, this CV project is an important step in exploring the potential of computer vision and object detection technologies. The transition from prototype Code A to the enhanced model Code B contributes significantly to the advancement of real-time image processing and object detection technologies. This research lays the foundation for maximizing the accuracy of real-time image processing and object detection, paving the way for more practical and innovative solutions in the future.
 
