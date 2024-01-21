@@ -11,7 +11,7 @@ This project explores and compares two methods, Code A and Code B, for detecting
 
 
 
-## 2. Technical Analysis (Key Points)
+## 2-1. Technical Analysis (Key Points A)
 
 -**Key Aspect of Code A:** Detection of All Movements
 
@@ -23,8 +23,13 @@ This project explores and compares two methods, Code A and Code B, for detecting
 
 -**Disadvantages:** May detect unnecessary movements, reducing data accuracy and efficiency.
 
+-**Demo Video of Code A (Prototype)**
 
 
+
+
+
+## 2-2. Technical Analysis (Key Points B)
 
 -**Key Aspect of Code B:** Conditional Object Detection
 
@@ -36,6 +41,7 @@ This project explores and compares two methods, Code A and Code B, for detecting
 
 -**Disadvantages:** May overlook small objects or subtle movements, potentially limiting detection capabilities in some situations.
 
+-**Demo Video of Code B (Prototype)**
 
 
 Code Review & Comparative Analysis
