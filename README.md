@@ -126,7 +126,7 @@ Future research will explore ways to enhance the accuracy and efficiency of obje
 
 ![포폴_배경_2](https://github.com/pixelwizard2/Project.CV--VisionDetect--Research-on-Object-Detection-Through-Advanced-Computer-Vision-Techniques/assets/138272416/7e4304d7-28e0-4ff4-8edf-c24f818d5777)
 
-<br> <br>
+<br>
 
 ## 8. Conclusion (결론)
 
