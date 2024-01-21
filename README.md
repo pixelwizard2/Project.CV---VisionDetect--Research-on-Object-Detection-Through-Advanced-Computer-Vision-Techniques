@@ -65,7 +65,7 @@ This project explores and compares two methods, Code A and Code B, for detecting
 <br> <br>
 
 ## 4. Description of Used Technologies and Algorithms  
-(사용된 기술 및 알고리즘 설명)
+**(사용된 기술 및 알고리즘 설명)**
 
 **(1) Background Subtraction:** 
 - Description: This technique detects movement by calculating the pixel difference between two consecutively captured images. Moving objects exhibit distinct pixel changes compared to the background.
@@ -108,7 +108,7 @@ These algorithms play an essential role in effectively detecting and tracking mo
 <br> <br>
 
 ## 5. Significance and Practical Application of the Project  
-(프로젝트 연구의 의의 및 실용적 적용)
+**(프로젝트 연구의 의의 및 실용적 적용)**
 
 This project contributes to the advancement of object detection algorithms, a core element of computer vision systems applicable in various aspects of modern society. Especially, it explores the practical applicability of real-time image processing and advanced object detection techniques, anticipating applications in real-time object detection and tracking in diverse environments, such as security systems, automated surveillance and monitoring, autonomous vehicles, and robotics. The integration of these technologies can enhance work efficiency and reduce human intervention, advancing system automation and optimization.
 
