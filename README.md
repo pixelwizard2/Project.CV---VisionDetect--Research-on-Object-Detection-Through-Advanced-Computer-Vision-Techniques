@@ -92,19 +92,23 @@ This project explores and compares two methods, Code A and Code B, for detecting
 
 These algorithms play an essential role in effectively detecting and tracking moving objects in images, with each technology greatly aiding in implementing stronger object detection capabilities in the field of computer vision.
 
-Significance and Practical Application of the Project
+
+## 5. Significance and Practical Application of the Project
 
 This project contributes to the advancement of object detection algorithms, a core element of computer vision systems applicable in various aspects of modern society. Especially, it explores the practical applicability of real-time image processing and advanced object detection techniques, anticipating applications in real-time object detection and tracking in diverse environments, such as security systems, automated surveillance and monitoring, autonomous vehicles, and robotics. The integration of these technologies can enhance work efficiency and reduce human intervention, advancing system automation and optimization.
 
-Reflections / Insights
+
+## 6. Reflections / Insights
 
 The project provided an in-depth exploration of basic principles of computer vision and various approaches to object detection. Code A highlighted the importance of a basic approach that captures all movements, while Code B showed the potential of advanced detection techniques through more precise condition setting. However, both approaches can be limited in specific situations, and additional optimization and customization are needed for practical application. The project inspired further exploration beyond OpenCV to implement features that, like in the latter part of the Code B demo video, do not detect minor movements but can track new or existing movements.
 
-Future Directions
+
+## 7. Future Directions
 
 Future research will explore ways to enhance the accuracy and efficiency of object detection using artificial intelligence and machine learning. Particularly, combining deep learning-based algorithms and techniques to maintain high performance in more complex environments and improve object detection accuracy. Additionally, we plan to develop features that allow users to easily set object detection criteria tailored to various use cases.
 
-Conclusion
+
+## 8. Conclusion
 
 From an AI perspective, this CV project is an important step in exploring the potential of computer vision and object detection technologies. The transition from prototype Code A to the enhanced model Code B contributes significantly to the advancement of real-time image processing and object detection technologies. This research lays the foundation for maximizing the accuracy of real-time image processing and object detection, paving the way for more practical and innovative solutions in the future.
 
