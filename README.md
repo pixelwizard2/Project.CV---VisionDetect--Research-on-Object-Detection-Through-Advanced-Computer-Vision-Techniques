@@ -44,25 +44,27 @@ This project explores and compares two methods, Code A and Code B, for detecting
 -**Demo Video of Code B (Prototype)**
 
 
-Code Review & Comparative Analysis
+## 3. Code Review & Comparative Analysis
 
-Comparison of the Entire Code of Code A (Left) and Modifications in Code B (Right)
+-**Comparison of the Entire Code of Code A (Left) and Modifications in Code B (Right)**
 
-Comparison of Object Movement Detection Range between Code A (Top Screen) and Code B (Bottom Screen)
+-**Comparison of Object Movement Detection Range between Code A (Top Screen) and Code B (Bottom Screen)**
 
-Description of Used Technologies and Algorithms
 
-Background Subtraction: This method detects movement by calculating the pixel difference between two consecutively captured images. Moving objects show distinct pixel changes compared to the background.
 
-Grayscale Conversion: Converts color images to grayscale, reducing data size and complexity, and speeding up processing.
+## 4. Description of Used Technologies and Algorithms
 
-Gaussian Blur: Applies a blur effect to images to reduce fine noise, increasing image smoothness and reducing processing errors.
+-**(1) Background Subtraction:** This method detects movement by calculating the pixel difference between two consecutively captured images. Moving objects show distinct pixel changes compared to the background.
 
-Thresholding: Converts images to only black and white colors, primarily used for clearly distinguishing objects from the background.
+-**(2) Grayscale Conversion:** Converts color images to grayscale, reducing data size and complexity, and speeding up processing.
 
-Dilation: Expands the area of white pixels in binarized images, filling small holes or gaps.
+-**(3) Gaussian Blur:** Applies a blur effect to images to reduce fine noise, increasing image smoothness and reducing processing errors.
 
-Contour Detection: Identifies the contours of objects in images, crucial for accurately identifying and analyzing each object.
+-**(4) Thresholding:** Converts images to only black and white colors, primarily used for clearly distinguishing objects from the background.
+
+-**(5) Dilation:** Expands the area of white pixels in binarized images, filling small holes or gaps.
+
+-**(6) Contour Detection:** Identifies the contours of objects in images, crucial for accurately identifying and analyzing each object.
 
 These algorithms play an essential role in effectively detecting and tracking moving objects in images, with each technology greatly aiding in implementing stronger object detection capabilities in the field of computer vision.
 
