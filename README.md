@@ -64,7 +64,8 @@ This project explores and compares two methods, Code A and Code B, for detecting
 
 <br> <br>
 
-## 4. Description of Used Technologies and Algorithms (사용된 기술 및 알고리즘 설명)
+## 4. Description of Used Technologies and Algorithms  
+(사용된 기술 및 알고리즘 설명)
 
 **(1) Background Subtraction:** 
 - Description: This technique detects movement by calculating the pixel difference between two consecutively captured images. Moving objects exhibit distinct pixel changes compared to the background.
@@ -100,13 +101,14 @@ This project explores and compares two methods, Code A and Code B, for detecting
 - Description: A technique for finding the contours of objects in images. It allows for the accurate determination of an object's location, size, and shape.
 - Application: Plays a crucial role in accurately identifying and analyzing each object.
 - Code: **contours, _ = cv2.findContours(dilated, cv2.RETR_TREE, cv2.CHAIN_APPROX_SIMPLE)**
-
+<br>
 
 These algorithms play an essential role in effectively detecting and tracking moving objects in images, with each technology greatly aiding in implementing stronger object detection capabilities in the field of computer vision.
 
 <br> <br>
 
-## 5. Significance and Practical Application of the Project (프로젝트 연구의 의의 및 실용적 적용)
+## 5. Significance and Practical Application of the Project  
+(프로젝트 연구의 의의 및 실용적 적용)
 
 This project contributes to the advancement of object detection algorithms, a core element of computer vision systems applicable in various aspects of modern society. Especially, it explores the practical applicability of real-time image processing and advanced object detection techniques, anticipating applications in real-time object detection and tracking in diverse environments, such as security systems, automated surveillance and monitoring, autonomous vehicles, and robotics. The integration of these technologies can enhance work efficiency and reduce human intervention, advancing system automation and optimization.
 
@@ -121,6 +123,8 @@ The project provided an in-depth exploration of basic principles of computer vis
 ## 7. Future Directions (미래 방향)
 
 Future research will explore ways to enhance the accuracy and efficiency of object detection using artificial intelligence and machine learning. Particularly, combining deep learning-based algorithms and techniques to maintain high performance in more complex environments and improve object detection accuracy. Additionally, we plan to develop features that allow users to easily set object detection criteria tailored to various use cases.
+
+![포폴_배경_2](https://github.com/pixelwizard2/Project.CV--VisionDetect--Research-on-Object-Detection-Through-Advanced-Computer-Vision-Techniques/assets/138272416/7e4304d7-28e0-4ff4-8edf-c24f818d5777)
 
 <br> <br>
 
