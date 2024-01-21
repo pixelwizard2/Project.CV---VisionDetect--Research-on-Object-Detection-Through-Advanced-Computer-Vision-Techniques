@@ -54,17 +54,28 @@ This project explores and compares two methods, Code A and Code B, for detecting
 
 ## 4. Description of Used Technologies and Algorithms
 
--**(1) Background Subtraction:** This method detects movement by calculating the pixel difference between two consecutively captured images. Moving objects show distinct pixel changes compared to the background.
+-**(1) Background Subtraction:** 
+- Description: This technique detects movement by calculating the pixel difference between two consecutively captured images. Moving objects exhibit distinct pixel changes compared to the background.
+- Application: Used for real-time motion detection, it identifies moving objects in dynamic environments.
+- Code: **diff = cv2.absdiff(frame1, frame2)**
 
 -**(2) Grayscale Conversion:** Converts color images to grayscale, reducing data size and complexity, and speeding up processing.
+- Description: Converts color images into grayscale. This reduces the amount of data in the image, speeds up processing, and decreases complexity.
+- Application: Performed in the initial stages of image processing, it helps to simplify subsequent processing steps.
+- Code: gray = **cv2.cvtColor(diff, cv2.COLOR_BGR2GRAY)**
 
 -**(3) Gaussian Blur:** Applies a blur effect to images to reduce fine noise, increasing image smoothness and reducing processing errors.
 
+
 -**(4) Thresholding:** Converts images to only black and white colors, primarily used for clearly distinguishing objects from the background.
+
 
 -**(5) Dilation:** Expands the area of white pixels in binarized images, filling small holes or gaps.
 
+
 -**(6) Contour Detection:** Identifies the contours of objects in images, crucial for accurately identifying and analyzing each object.
+
+
 
 These algorithms play an essential role in effectively detecting and tracking moving objects in images, with each technology greatly aiding in implementing stronger object detection capabilities in the field of computer vision.
 
