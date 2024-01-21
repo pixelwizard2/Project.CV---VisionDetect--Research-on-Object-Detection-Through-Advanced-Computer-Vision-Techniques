@@ -18,17 +18,17 @@ This project explores and compares two methods, Code A and Code B, for detecting
 
 ## 2-1. Technical Analysis (Key Points A)   (기술적 분석 A)
 
--**Key Aspect of Code A:** Detection of All Movements
+- **Key Aspect of Code A:** Detection of All Movements
 
--**Background Subtraction Technique:** This technique detects movements by calculating the difference between two consecutive frames. It is useful and effective in identifying movements of objects in dynamic environments.
+- **Background Subtraction Technique:** This technique detects movements by calculating the difference between two consecutive frames. It is useful and effective in identifying movements of objects in dynamic environments.
 
--**Visual Diversity:** This approach uses various colors to distinguish each movement, providing clear recognition to users for easy identification of detected objects.
+- **Visual Diversity:** This approach uses various colors to distinguish each movement, providing clear recognition to users for easy identification of detected objects.
 
--**Advantages:** Captures all movements, showing high-level detection capabilities in active environments.
+- **Advantages:** Captures all movements, showing high-level detection capabilities in active environments.
 
--**Disadvantages:** May detect unnecessary movements, reducing data accuracy and efficiency.
+- **Disadvantages:** May detect unnecessary movements, reducing data accuracy and efficiency.
 
--**Demo Video of Code A (Prototype)**
+- **Demo Video capture of Code A (Prototype)**
 
 ![1](https://github.com/pixelwizard2/Project.CV--VisionDetect--Research-on-Object-Detection-Through-Advanced-Computer-Vision-Techniques/assets/138272416/34a255c9-caaa-4695-9cd2-f1a05fcf4cb9)
 
@@ -36,17 +36,17 @@ This project explores and compares two methods, Code A and Code B, for detecting
 
 ## 2-2. Technical Analysis (Key Points B)   (기술적 분석 B)
 
--**Key Aspect of Code B:** Conditional Object Detection
+- **Key Aspect of Code B:** Conditional Object Detection
 
--**Area-Based Filtering / Object Definition Clarity:** Detects objects only above a certain size (2,000 pixels), effectively removing minor movements and noise for more efficient object identification and analysis.
+- **Area-Based Filtering / Object Definition Clarity:** Detects objects only above a certain size (2,000 pixels), effectively removing minor movements and noise for more efficient object identification and analysis.
 
--**Contour Detection:** Identifies the contours of objects for accurate determination of their shape and location, significantly improving object recognition accuracy.
+- **Contour Detection:** Identifies the contours of objects for accurate determination of their shape and location, significantly improving object recognition accuracy.
 
--**Advantages:** Allows more refined detection capabilities focused on specific objects.
+- **Advantages:** Allows more refined detection capabilities focused on specific objects.
 
--**Disadvantages:** May overlook small objects or subtle movements, potentially limiting detection capabilities in some situations.
+- **Disadvantages:** May overlook small objects or subtle movements, potentially limiting detection capabilities in some situations.
 
--**Demo Video of Code B (Prototype)**
+- **Demo Video capture of Code B (Prototype)**
 
 ![2](https://github.com/pixelwizard2/Project.CV--VisionDetect--Research-on-Object-Detection-Through-Advanced-Computer-Vision-Techniques/assets/138272416/1c5a80d9-b58a-46ad-9571-e4f2ebd01754)
 
