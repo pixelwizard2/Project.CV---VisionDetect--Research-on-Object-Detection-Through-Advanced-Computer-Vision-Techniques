@@ -1,6 +1,7 @@
 # Project.CV--VisionDetect--Research-on-Object-Detection-Through-Advanced-Computer-Vision-Techniques
 고급 컴퓨터 비전 기법을 통한 객체 감지 연구 (여섯 개의 알고리즘 적용)
 
+![포폴_배경_1](https://github.com/pixelwizard2/Project.CV--VisionDetect--Research-on-Object-Detection-Through-Advanced-Computer-Vision-Techniques/assets/138272416/e29ffc92-c8e8-48d0-b6c8-0489117083a7)
 
 
 
@@ -25,7 +26,7 @@ This project explores and compares two methods, Code A and Code B, for detecting
 
 -**Demo Video of Code A (Prototype)**
 
-
+![1](https://github.com/pixelwizard2/Project.CV--VisionDetect--Research-on-Object-Detection-Through-Advanced-Computer-Vision-Techniques/assets/138272416/34a255c9-caaa-4695-9cd2-f1a05fcf4cb9)
 
 
 
@@ -43,6 +44,11 @@ This project explores and compares two methods, Code A and Code B, for detecting
 
 -**Demo Video of Code B (Prototype)**
 
+![2](https://github.com/pixelwizard2/Project.CV--VisionDetect--Research-on-Object-Detection-Through-Advanced-Computer-Vision-Techniques/assets/138272416/1c5a80d9-b58a-46ad-9571-e4f2ebd01754)
+
+![4](https://github.com/pixelwizard2/Project.CV--VisionDetect--Research-on-Object-Detection-Through-Advanced-Computer-Vision-Techniques/assets/138272416/381da6eb-0534-4487-b2a9-cc7c1064bb49)
+
+
 
 ## 3. Code Review & Comparative Analysis
 
@@ -50,6 +56,7 @@ This project explores and compares two methods, Code A and Code B, for detecting
 
 -**Comparison of Object Movement Detection Range between Code A (Top Screen) and Code B (Bottom Screen)**
 
+![3](https://github.com/pixelwizard2/Project.CV--VisionDetect--Research-on-Object-Detection-Through-Advanced-Computer-Vision-Techniques/assets/138272416/5bb094fe-7c5b-43be-a6f8-c6d5fe63fec0)
 
 
 ## 4. Description of Used Technologies and Algorithms
