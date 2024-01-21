@@ -1,5 +1,5 @@
 # Project.CV--VisionDetect--Research-on-Object-Detection-Through-Advanced-Computer-Vision-Techniques
-고급 컴퓨터 비전 기법을 통한 객체 감지 연구 (여섯 개의 CV 알고리즘 적용)
+_고급 컴퓨터 비전 기법을 통한 객체 감지 연구 (여섯 개의 CV 알고리즘 적용)_
 <p align="right">
   <a href="https://blog.naver.com/pixelwizard/223302257747">
     <img src="https://img.shields.io/badge/한국어%20번역본-03C75A?style=flat-square&logo=Naver&logoColor=white" alt="네이버 블로그">
